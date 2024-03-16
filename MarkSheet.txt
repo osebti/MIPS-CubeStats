@@ -1,0 +1,48 @@
+
+        CMPUT 229 Laboratory Assignment #3
+        ==================================
+
+Final Mark:     100/100 MARKS TOTAL
+                =====
+Part 1:         80/80 Correct Statistic Generated
+
+Part 2:         10/10 Use of Stack Frame
+
+Part 3:         10/10 Style
+
+-------------------------------------------------------------------------
+Part 1: Correct Statistic Generated
+
+ 80/80
+
+    Test 1 8/8 Test 2 8/8
+
+    Test 3 8/8 Test 4 8/8
+
+    Test 5 8/8 Test 6 8/8
+
+    Test 7 8/8 Test 8 8/8
+
+    Test 9 16/16
+
+------------------------------------------------------------------------
+Part 2: Use of Stack Frame
+
+ 10/10
+
+Full Marks given if:
+    All stack variables referenced using $fp 
+     except to store $fp or increase stack size.
+Deductions: (5 Marks per deduction)
+    stores or loads of registers other than $fp using $sp
+    
+You are not required to use the stack frame in your solution, but if
+you do use it, then you must do so correctly.
+      
+------------------------------------------------------------------------
+Part 3: Style
+
+ 10/10
+ 
+Notes:
+    Incredible job!!
